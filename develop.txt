@@ -1,1 +1,1 @@
-This is develop.txt file and used for stashing file.
+This is develop.txt file and used for stashing file from develop.txt
